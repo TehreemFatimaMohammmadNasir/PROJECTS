@@ -38,9 +38,23 @@ I have created a to-do web application that features a responsive design, allowi
 
 https://github.com/user-attachments/assets/9ce828e9-f59e-423a-9423-5873f3365a57
 
+I have developed a login and registration system that allows users to create an account and securely log in. After successful login, the user is redirected to a welcome page, providing a seamless and user-friendly experience
+
+https://github.com/user-attachments/assets/47100eda-670e-48e9-8b3b-88a57a40fcc6
+
+I have implemented a file uploading system. It allows users to select and upload files directly from their devices, ensuring efficient file management and a smooth user experience.
 
 
-https://github.com/user-attachments/assets/fd5b92f9-b809-45e3-bbeb-000843ef25ef
+
+https://github.com/user-attachments/assets/469c8d78-ff3a-466b-82c0-a7f78726bff6
+
+
+my personal portfolio :
+
+
+
+https://github.com/user-attachments/assets/d1b5e3af-2b59-401a-b30f-175afc103b0e
+
 
 
 
